@@ -1,4 +1,7 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiwwwon&count_bg=%23888DF0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Todays%27s+Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WASSUP&fontAlignY=35&fontSize=40&fontColor=FFFFFF&desc=EST%20AI%20서비스기획%20KDT과정%201기&descAlignY=50&animation=fadeIn)
+
+
 >Hi, I'm **Jiwon Lee** 👋  
 Let's study hard together!
 
