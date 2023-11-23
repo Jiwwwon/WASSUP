@@ -1,11 +1,8 @@
-### WASSUP, Welcome to Jiwon world👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WASSUP&fontAlignY=35&fontSize=40&fontColor=FFFFFF&desc=EST%20AI%20서비스기획%20KDT과정%201기&descAlignY=50&animation=fadeIn)
+>Hi, I'm **Jiwon Lee** 👋  
+Let's study hard together!
 
-#### 이스트소프트 인공지능서비스기획 KDT 과정 1기
-안녕하세요. WASSUP 1기 이지원 입니다.   
-
-
-
-
+   
 🐱 About Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwon5360@gmail.com)](jiwon5360@gmail.com)
@@ -17,8 +14,8 @@
 
 💪🏼 Tools
 
+![visual studio img](https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white) ![adobe illustrator img](https://img.shields.io/badge/illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) ![adobe photosop img](https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![adobe aftereffect img](https://img.shields.io/badge/aftereffect-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
 
-
-
+📁 project
 
 
